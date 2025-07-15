@@ -7,7 +7,7 @@ Fullstack Developer
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-feitosa-3ab8b12a0)](https://www.linkedin.com/in/daniel-feitosa-3ab8b12a0)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:daniel.feitosa.nasicmento@gmail.com)](mailto:daniel.feitosa.nasicmento@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+Enthusiast of the best web & mobile development technologies. Frontend s2
 
 💻 **Backend**: Passionate about building scalable and secure architectures, implementing best practices in backend development, and integrating cutting-edge technologies.
 
