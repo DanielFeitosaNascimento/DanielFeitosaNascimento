@@ -1,7 +1,7 @@
 # Daniel Feitosa
 ___________________________________________________________________________
 
-### Tech Lead @Cliniknet @Detran | Fullstack Developer
+Fullstack Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/KinNGgs2)](https://x.com/kinNGgs2)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-feitosa-3ab8b12a0)](https://www.linkedin.com/in/daniel-feitosa-3ab8b12a0)
